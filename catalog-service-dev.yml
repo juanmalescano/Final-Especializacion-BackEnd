@@ -39,6 +39,10 @@ resilience4j:
         maxAttempts: 3
         waitDuration: 1000
         retryExceptions[0]: feign.FeignException$InternalServerError
+      catalogs:
+        maxAttempts: 3
+        waitDuration: 1000
+        retryExceptions[0]: feign.FeignException$InternalServerError
 
 management:
   health:
