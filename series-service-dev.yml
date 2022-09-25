@@ -9,7 +9,7 @@ spring:
       password: admin
       database: tp_final_series
       port: 27017
-      host: localhost
+      host: mongodb #localhost
 
 info:
   app:
