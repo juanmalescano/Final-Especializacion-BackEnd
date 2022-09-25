@@ -9,7 +9,7 @@ spring:
       password: admin
       database: tp_final_catalogo
       port: 27017
-      host: localhost #mongodb para docker
+      host: mongodb #localhost 
 
 resilience4j:
   circuitbreaker:
