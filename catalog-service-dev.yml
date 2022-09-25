@@ -4,7 +4,7 @@ server:
 spring:
   data:
     mongodb:
-      authentication-database: admin
+      authentication-database: tp_final_catalogo
       username: admin
       password: admin
       database: tp_final_catalogo
