@@ -24,15 +24,15 @@ services:
     ports:
       - "8080:8080"
     restart: always
-  series-service:
-    image: series-service
-    ports:
-      - "8086:8086"
-    restart: always
   movie-service:
     image: movie-service
     ports:
       - "8082:8082"
+    restart: always
+  series-service:
+    image: series-service
+    ports:
+      - "8086:8086"
     restart: always
   catalog-service:
     image: catalog-service
@@ -45,20 +45,19 @@ services:
     command: mongod --auth
     environment:
       - MONGO_INITDB_DATABASE=admin
-      - MONGO_INITDB_ROOT_USERNAME=rootuser
-      - MONGO_INITDB_ROOT_PASSWORD=rootpass
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_ROOT_PASSWORD=admin
     ports:
       - "27017:27017"
   mysql:
     image: mysql
     ports:
-      - 3306:3306
-      - 3308:3308
+      - "3306:3306"
+      - "3308:3308"
     environment:
       - MYSQL_DATABASE=tp_final
-      - MYSQL_USER=user
-      - MYSQL_PASSWORD=pass
-      - MYSQL_ROOT_PASSWORD=pass
+      - MYSQL_PASSWORD=admin
+      - MYSQL_ROOT_PASSWORD=root
   redis:
     image: redis
     ports:
