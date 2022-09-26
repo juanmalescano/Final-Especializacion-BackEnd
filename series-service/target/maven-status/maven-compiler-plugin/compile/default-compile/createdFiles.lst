@@ -1,0 +1,13 @@
+com\dh\seriesservice\service\SeriesService.class
+com\dh\seriesservice\service\SeasonsService.class
+com\dh\seriesservice\model\Chapter.class
+com\dh\seriesservice\repository\ChapterRepository.class
+com\dh\seriesservice\config\RabbitTemplateConfig.class
+com\dh\seriesservice\repository\SeasonsRepository.class
+com\dh\seriesservice\service\ChapterService.class
+com\dh\seriesservice\model\Seasons.class
+com\dh\seriesservice\config\RabbitMQConsumerConfig.class
+com\dh\seriesservice\controller\SeriesController.class
+com\dh\seriesservice\repository\SeriesRepository.class
+com\dh\seriesservice\SeriesServiceApplication.class
+com\dh\seriesservice\model\Series.class

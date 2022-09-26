@@ -1,0 +1,15 @@
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\api\controller\CatalogController.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\api\client\SerieClient.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\domain\model\MovieDTO.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\config\RabbitMQSenderConfig.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\domain\model\SerieDTO.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\domain\model\ChapterDTO.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\api\service\CatalagoService.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\api\client\MovieClient.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\api\service\MovieService.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\domain\model\SeasonsDTO.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\api\model\Catalogo.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\api\repository\CatalogoRepository.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\api\service\SerieService.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\CatalogServiceApplication.java
+C:\Users\juanm\Google Drive\Carrera certified Tech Developer\Especializacion Back End\Final\catalog-service\src\main\java\com\digitalhouse\catalogservice\config\RabbitTemplateConfig.java

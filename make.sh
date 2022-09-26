@@ -29,4 +29,3 @@ docker build . -t api-gateway
 cd ..
 
 docker-compose up
-

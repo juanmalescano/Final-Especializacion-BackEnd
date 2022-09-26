@@ -1,0 +1,15 @@
+com\digitalhouse\catalogservice\domain\model\MovieDTO.class
+com\digitalhouse\catalogservice\api\model\Catalogo.class
+com\digitalhouse\catalogservice\api\client\MovieClient.class
+com\digitalhouse\catalogservice\domain\model\SeasonsDTO.class
+com\digitalhouse\catalogservice\domain\model\ChapterDTO.class
+com\digitalhouse\catalogservice\config\RabbitTemplateConfig.class
+com\digitalhouse\catalogservice\config\RabbitMQSenderConfig.class
+com\digitalhouse\catalogservice\api\repository\CatalogoRepository.class
+com\digitalhouse\catalogservice\api\service\MovieService.class
+com\digitalhouse\catalogservice\api\service\SerieService.class
+com\digitalhouse\catalogservice\domain\model\SerieDTO.class
+com\digitalhouse\catalogservice\CatalogServiceApplication.class
+com\digitalhouse\catalogservice\api\controller\CatalogController.class
+com\digitalhouse\catalogservice\api\service\CatalagoService.class
+com\digitalhouse\catalogservice\api\client\SerieClient.class

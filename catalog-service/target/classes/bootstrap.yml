@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: catalog-service
+  cloud:
+    config:
+      fail-fast: true
+      discovery:
+        enabled: true
+        service-id: config-service
+  rabbitmq:
+    username: guest
+    password: guest
+    host: rabbitmq #localhost
+    port: 5672
+  profiles:
+    active: dev
+
+queue:
+  general:
+    name: general
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://EUREKA-SERVER:8761/eureka/ #http://localhost:8761/eureka
